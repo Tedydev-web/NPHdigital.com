@@ -38,7 +38,7 @@ const ServiceElementV5 = () => {
 		{
 			title: 'Phát triển ứng dụng di động',
 			items: ['Thiết kế UI/UX chuyên nghiệp', 'Phát triển đa nền tảng', 'Tối ưu hiệu suất'],
-			href: '/mobile-app',
+			href: '/mobile-app', // Đường dẫn chi tiết dịch vụ
 		},
 		{
 			title: 'Thiết kế & Phát triển website',
@@ -83,7 +83,7 @@ const ServiceElementV5 = () => {
 		{
 			title: 'Thiết kế UX/UI',
 			items: ['Nghiên cứu người dùng', 'Thiết kế giao diện', 'Tối ưu trải nghiệm'],
-			href: '/thiet-ke-ui-ux',
+			href: '/thiet-ke-ux-ui',
 		},
 	];
 

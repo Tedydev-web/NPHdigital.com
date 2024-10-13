@@ -83,7 +83,7 @@ const ServiceElementV5 = () => {
 		{
 			title: 'Thiết kế UX/UI',
 			items: ['Nghiên cứu người dùng', 'Thiết kế giao diện', 'Tối ưu trải nghiệm'],
-			href: '/thiet-ke-ui-ux',
+			href: '/thiet-ke-ux-ui',
 		},
 	];
 
